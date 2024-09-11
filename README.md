@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+--
+Current: C++ x86-64 shell fro working and interacting with network
+Next: C++ x86-64 and Embeded for more presize management of memory
 <!--
 **bropy/bropy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
